@@ -4,7 +4,7 @@ A simple Tic Tac Toe game implemented using React. Two players can take turns an
 
 ## Prerequisites
 
--   Node.js 18
+-   Node.js >= 18.18.2
 
 ## Getting Started
 
